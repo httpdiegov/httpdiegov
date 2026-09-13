@@ -58,13 +58,6 @@ Automatización, infraestructura como código y observabilidad. Trabajo con **Do
 
 ---
 
-### 🚀 Proyectos destacados
-
-- **INFCraft (DSC PUCP)** — *Data & Observability Engineer.* Capa de datos y observabilidad de una red de servidores sobre **Kubernetes (K3s)** con un solo nodo de 16 GB: **VictoriaMetrics** y **Grafana Loki** sobre **Grafana**, esquemas **MySQL** y mantenimiento con **Kubernetes CronJobs**, bajo **GitOps/IaC**.
-- **Agentic OS (DSC PUCP)** — *Project Manager / DevOps / Infra.* Arquitectura serverless en **AWS** (Cognito, API Gateway, Lambda, SQS/DLQ, S3) con **PostgreSQL multitenant**, **IaC con AWS SAM**, **CI/CD** y entornos de producción y preview.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
